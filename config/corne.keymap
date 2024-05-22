@@ -35,7 +35,7 @@
   &kp Q        &kp W        &kp E        &kp R        &kp T        &kp Y       &kp U         &kp I       &kp O      &kp P
   &mt LGUI A   &mt LALT S   &mt LCTRL D  &mt LSHIFT F &kp G        &kp H       &mt RSHIFT J  &mt RCTRL K &mt RALT L &mt RGUI SEMI
   &kp Z        &kp X        &kp C        &kp V        &kp B        &kp N       &kp M         &kp COMMA   &kp DOT    &kp FSLH
-                            &none        &lt SYM BSPC &lt NAV TAB  &lt FUN RET &lt NUM SPACE &none
+                            &none        &lt NAV BSPC &lt FUN TAB  &lt NUM RET &lt SYM SPACE &none
       >;
     };
 
@@ -45,7 +45,7 @@
   &none        &none        &none        &none        &none        &none       &kp LPAR      &kp RPAR    &kp LBRC   &kp RBRC
   &kp LGUI     &kp LALT     &kp LCTRL    &kp LSHIFT   &none        &kp LEFT    &kp DOWN      &kp UP      &kp RIGHT  &none
   &none        &none        &none        &none        &none        &none       &kp LBKT      &kp RBKT    &kp LT     &kp GT
-                            &none        &trans       &none        &none       &none         &none
+                            &none        &none        &trans       &none       &none         &none
       >;
     };
 
@@ -55,7 +55,7 @@
   &none        &kp N7       &kp N8       &kp N9       &kp MINUS    &none       &none         &none       &none      &none
   &kp SQT      &kp N4       &kp N5       &kp N6       &kp EQUAL    &none       &kp RSHIFT    &kp RCTRL   &kp RALT   &kp RGUI
   &kp GRAVE    &kp N1       &kp N2       &kp N3       &kp BSLH     &none       &none         &none       &none      &none
-                            &none        &kp N0       &none        &trans      &none         &none
+                            &none        &kp N0       &none        &none       &trans        &none
       >;
     };
 
